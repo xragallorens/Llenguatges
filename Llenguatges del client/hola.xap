@@ -1,0 +1,1 @@
+scala> val dictionary = Map("Hello, Ramis!" -> "Hola, Ramis!")
