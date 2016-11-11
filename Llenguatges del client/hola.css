@@ -1,8 +1,4 @@
-<html>
-<head>
-<title>Ejemplo Hola Mundo</title>
-</head>
-<body>
-<p style="color=#666666; margin: 2px;">Hola, Ramis!</p>
-</body>
-</html>
+p.holaEclipse {
+	color: #666666;
+	margin: 2px;
+}

@@ -1,1 +1,1 @@
-MsgBox("Hola Mundo")
+MsgBox("Hola, Eclipse!")

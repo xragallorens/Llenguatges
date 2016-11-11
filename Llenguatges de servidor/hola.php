@@ -3,7 +3,7 @@
   <title>PHP</title>
  </head>
  <body>
- <?php echo '<p>Hola, Ramis!</p>'; 
+ <?php echo '<p>Hola, Eclipse!</p>'; 
        echo '<p>Joel haciendo testing<p>';
  ?>
  </body>

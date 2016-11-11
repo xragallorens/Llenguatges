@@ -4,6 +4,6 @@
     <title>Hola Mundo</title>
   </head>
   <body>
-    <p>Hola, Ramis!</p>
+    <p>Hola, Eclipse!</p>
   </body>
 </html>
